@@ -16,7 +16,9 @@ const Cards = () => {
 					<h2 className="text-2xl font-bold text-center py-8">
 						Single User
 					</h2>
-					<p className="text-center text-4xl font-bold">$149</p>
+					<p className="text-center text-4xl font-bold">
+						Rp. 150.000
+					</p>
 					<div className="text-center font-medium">
 						<p className="py-2 border-b mx-8 mt-8">
 							500 GB Storage
@@ -41,7 +43,9 @@ const Cards = () => {
 					<h2 className="text-2xl font-bold text-center py-8">
 						Partnership
 					</h2>
-					<p className="text-center text-4xl font-bold">$149</p>
+					<p className="text-center text-4xl font-bold">
+						Rp. 250.000
+					</p>
 					<div className="text-center font-medium">
 						<p className="py-2 border-b mx-8 mt-8">
 							1 TB Storage
@@ -64,9 +68,11 @@ const Cards = () => {
 						alt="/"
 					/>
 					<h2 className="text-2xl font-bold text-center py-8">
-						Group s
+						Group
 					</h2>
-					<p className="text-center text-4xl font-bold">$149</p>
+					<p className="text-center text-4xl font-bold">
+						Rp. 400.000
+					</p>
 					<div className="text-center font-medium">
 						<p className="py-2 border-b mx-8 mt-8">
 							5 TB Storage
